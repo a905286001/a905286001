@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Kidd
-- 
-######I'm interested in singing
+###### I'm interested in singing
 
-######I am straight
+###### I am straight
 
-######Happy to know you
+###### Happy to know you
 
 
 
